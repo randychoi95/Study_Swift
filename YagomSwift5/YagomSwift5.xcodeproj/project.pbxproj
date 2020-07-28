@@ -35,6 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8F996B2C24D0212B00510E09 /* YagomSwift5 copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "YagomSwift5 copy-Info.plist"; path = "/Users/bagjunsang/Desktop/MobileProject/IosWorkSpace/gitHub/SwiftStudy/YagomSwift5/YagomSwift5 copy-Info.plist"; sourceTree = "<absolute>"; };
+		8F996B2F24D021A700510E09 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DE92B7D524D0159E00B8A6E5 /* YagomSwift5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YagomSwift5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE92B7D824D0159E00B8A6E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE92B7DA24D0159E00B8A6E5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -76,6 +78,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8F996B2D24D0218A00510E09 /* parkJoonSang */ = {
+			isa = PBXGroup;
+			children = (
+				8F996B2E24D0219300510E09 /* Chapter1 */,
+			);
+			path = parkJoonSang;
+			sourceTree = "<group>";
+		};
+		8F996B2E24D0219300510E09 /* Chapter1 */ = {
+			isa = PBXGroup;
+			children = (
+				8F996B2F24D021A700510E09 /* MyPlayground.playground */,
+			);
+			path = Chapter1;
+			sourceTree = "<group>";
+		};
 		DE92B7CC24D0159E00B8A6E5 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +101,7 @@
 				DE92B7EE24D015A400B8A6E5 /* YagomSwift5Tests */,
 				DE92B7F924D015A400B8A6E5 /* YagomSwift5UITests */,
 				DE92B7D624D0159E00B8A6E5 /* Products */,
+				8F996B2C24D0212B00510E09 /* YagomSwift5 copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,6 +118,7 @@
 		DE92B7D724D0159E00B8A6E5 /* YagomSwift5 */ = {
 			isa = PBXGroup;
 			children = (
+				8F996B2D24D0218A00510E09 /* parkJoonSang */,
 				DE92B7D824D0159E00B8A6E5 /* AppDelegate.swift */,
 				DE92B7DA24D0159E00B8A6E5 /* SceneDelegate.swift */,
 				DE92B7DC24D0159E00B8A6E5 /* ViewController.swift */,
@@ -366,7 +386,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -420,7 +440,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
