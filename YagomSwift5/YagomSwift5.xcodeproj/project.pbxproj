@@ -37,6 +37,23 @@
 /* Begin PBXFileReference section */
 		8F996B2C24D0212B00510E09 /* YagomSwift5 copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "YagomSwift5 copy-Info.plist"; path = "/Users/bagjunsang/Desktop/MobileProject/IosWorkSpace/gitHub/SwiftStudy/YagomSwift5/YagomSwift5 copy-Info.plist"; sourceTree = "<absolute>"; };
 		8F996B2F24D021A700510E09 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE21F84724D8DF290092A947 /* Chapter6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter6.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE21F84924D8ED5C0092A947 /* Chapter7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter7.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE21F84B24D8FF400092A947 /* Chapter8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter8.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE21F84D24D9045F0092A947 /* Chapter9.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter9.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE21F84F24D926D90092A947 /* Chapter10.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter10.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE30810D25391BA000CF1BBC /* Appendix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Appendix.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE697EDD24DA2F2400FBFBEE /* Chapter11.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter11.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE697EDF24DA3F6100FBFBEE /* Chapter12.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter12.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE697EE124DA4EDF00FBFBEE /* Chapter13.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter13.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE697EE324DA887F00FBFBEE /* Chapter14.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter14.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE697EE524DB9AED00FBFBEE /* Chapter15.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter15.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE697EE724DCDF2500FBFBEE /* Chapter16.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter16.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE6B14FC24E286E000EC6AA6 /* Chapter17.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter17.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE8AF72624D0FB7A00DE74D4 /* Chapter2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE8AF72824D1058200DE74D4 /* Chapter3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE8AF72A24D134F300DE74D4 /* Chapter4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DE8AF72C24D159CB00DE74D4 /* Chapter5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DE92B7D524D0159E00B8A6E5 /* YagomSwift5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YagomSwift5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE92B7D824D0159E00B8A6E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE92B7DA24D0159E00B8A6E5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +68,19 @@
 		DE92B7F624D015A400B8A6E5 /* YagomSwift5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YagomSwift5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE92B7FA24D015A400B8A6E5 /* YagomSwift5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YagomSwift5UITests.swift; sourceTree = "<group>"; };
 		DE92B7FC24D015A400B8A6E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DEA380F725356D9C00A28E9C /* Chapter19.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter19.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEA38100253582D700A28E9C /* Chapter20.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter20.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEA3810825367C9700A28E9C /* Chapter21.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter21.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEA3810D2536930100A28E9C /* Chapter22.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter22.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEA381122536B6A200A28E9C /* Chapter23.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter23.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEA3811A2536D08300A28E9C /* Chapter24.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter24.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEA3811F2536D98B00A28E9C /* Chapter25.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter25.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEA381272537CE4D00A28E9C /* Chapter26.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter26.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEA3812C2537E51E00A28E9C /* Chapter27.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter27.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEA3813125380FBC00A28E9C /* Chapter28.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter28.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEA3813625382D3000A28E9C /* Chapter29.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter29.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEA3813C2538352E00A28E9C /* Chapter30.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter30.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DEBA24C924E28EAF00CFCC11 /* Chapter18.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter18.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +124,187 @@
 			path = Chapter1;
 			sourceTree = "<group>";
 		};
+		DE21F84624D8DF0D0092A947 /* Chapter6 */ = {
+			isa = PBXGroup;
+			children = (
+				DE21F84724D8DF290092A947 /* Chapter6.playground */,
+			);
+			path = Chapter6;
+			sourceTree = "<group>";
+		};
+		DE21F84824D8ED4D0092A947 /* Chapter7 */ = {
+			isa = PBXGroup;
+			children = (
+				DE21F84924D8ED5C0092A947 /* Chapter7.playground */,
+			);
+			path = Chapter7;
+			sourceTree = "<group>";
+		};
+		DE21F84A24D8FF150092A947 /* Chapter8 */ = {
+			isa = PBXGroup;
+			children = (
+				DE21F84B24D8FF400092A947 /* Chapter8.playground */,
+			);
+			path = Chapter8;
+			sourceTree = "<group>";
+		};
+		DE21F84C24D904510092A947 /* Chapter9 */ = {
+			isa = PBXGroup;
+			children = (
+				DE21F84D24D9045F0092A947 /* Chapter9.playground */,
+			);
+			path = Chapter9;
+			sourceTree = "<group>";
+		};
+		DE21F84E24D926CB0092A947 /* Chapter10 */ = {
+			isa = PBXGroup;
+			children = (
+				DE21F84F24D926D90092A947 /* Chapter10.playground */,
+			);
+			path = Chapter10;
+			sourceTree = "<group>";
+		};
+		DE30810C25391B8100CF1BBC /* Appendix */ = {
+			isa = PBXGroup;
+			children = (
+				DE30810D25391BA000CF1BBC /* Appendix.playground */,
+			);
+			path = Appendix;
+			sourceTree = "<group>";
+		};
+		DE697EDC24DA2F0900FBFBEE /* Chapter11 */ = {
+			isa = PBXGroup;
+			children = (
+				DE697EDD24DA2F2400FBFBEE /* Chapter11.playground */,
+			);
+			path = Chapter11;
+			sourceTree = "<group>";
+		};
+		DE697EDE24DA3F4E00FBFBEE /* Chapter12 */ = {
+			isa = PBXGroup;
+			children = (
+				DE697EDF24DA3F6100FBFBEE /* Chapter12.playground */,
+			);
+			path = Chapter12;
+			sourceTree = "<group>";
+		};
+		DE697EE024DA4ECF00FBFBEE /* Chapter13 */ = {
+			isa = PBXGroup;
+			children = (
+				DE697EE124DA4EDF00FBFBEE /* Chapter13.playground */,
+			);
+			path = Chapter13;
+			sourceTree = "<group>";
+		};
+		DE697EE224DA886C00FBFBEE /* Chapter14 */ = {
+			isa = PBXGroup;
+			children = (
+				DE697EE324DA887F00FBFBEE /* Chapter14.playground */,
+			);
+			path = Chapter14;
+			sourceTree = "<group>";
+		};
+		DE697EE424DB9ADB00FBFBEE /* Chapter15 */ = {
+			isa = PBXGroup;
+			children = (
+				DE697EE524DB9AED00FBFBEE /* Chapter15.playground */,
+			);
+			path = Chapter15;
+			sourceTree = "<group>";
+		};
+		DE697EE624DCDF0D00FBFBEE /* Chapter16 */ = {
+			isa = PBXGroup;
+			children = (
+				DE697EE724DCDF2500FBFBEE /* Chapter16.playground */,
+			);
+			path = Chapter16;
+			sourceTree = "<group>";
+		};
+		DE6B14FB24E286CC00EC6AA6 /* Chapter17 */ = {
+			isa = PBXGroup;
+			children = (
+				DE6B14FC24E286E000EC6AA6 /* Chapter17.playground */,
+			);
+			path = Chapter17;
+			sourceTree = "<group>";
+		};
+		DE8AF72224D0F91800DE74D4 /* CJH */ = {
+			isa = PBXGroup;
+			children = (
+				DE30810C25391B8100CF1BBC /* Appendix */,
+				DEA3813A2538351600A28E9C /* Chapter30 */,
+				DEA3813525382D1F00A28E9C /* Chapter29 */,
+				DEA3813025380FAC00A28E9C /* Chapter28 */,
+				DEA3812B2537E50D00A28E9C /* Chapter27 */,
+				DEA381262537CE3D00A28E9C /* Chapter26 */,
+				DEA3811E2536D97900A28E9C /* Chapter25 */,
+				DEA381192536D07100A28E9C /* Chapter24 */,
+				DEA381112536B68C00A28E9C /* Chapter23 */,
+				DEA3810C253692EC00A28E9C /* Chapter22 */,
+				DEA3810725367C7E00A28E9C /* Chapter21 */,
+				DEA380FF253582C200A28E9C /* Chapter20 */,
+				DEA380F625356D7100A28E9C /* Chapter19 */,
+				DE931E5424EB5735004E6CA4 /* Chapter18 */,
+				DE6B14FB24E286CC00EC6AA6 /* Chapter17 */,
+				DE697EE624DCDF0D00FBFBEE /* Chapter16 */,
+				DE697EE424DB9ADB00FBFBEE /* Chapter15 */,
+				DE697EE224DA886C00FBFBEE /* Chapter14 */,
+				DE697EE024DA4ECF00FBFBEE /* Chapter13 */,
+				DE697EDE24DA3F4E00FBFBEE /* Chapter12 */,
+				DE697EDC24DA2F0900FBFBEE /* Chapter11 */,
+				DE21F84E24D926CB0092A947 /* Chapter10 */,
+				DE21F84C24D904510092A947 /* Chapter9 */,
+				DE21F84A24D8FF150092A947 /* Chapter8 */,
+				DE21F84824D8ED4D0092A947 /* Chapter7 */,
+				DE21F84624D8DF0D0092A947 /* Chapter6 */,
+				DE8AF72B24D159B900DE74D4 /* Chapter5 */,
+				DE8AF72924D134DF00DE74D4 /* Chapter4 */,
+				DE8AF72724D1057000DE74D4 /* Chapter3 */,
+				DE8AF72524D0FB2000DE74D4 /* Chapter2 */,
+				DE8AF72324D0FACE00DE74D4 /* Chapter1 */,
+			);
+			path = CJH;
+			sourceTree = "<group>";
+		};
+		DE8AF72324D0FACE00DE74D4 /* Chapter1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Chapter1;
+			sourceTree = "<group>";
+		};
+		DE8AF72524D0FB2000DE74D4 /* Chapter2 */ = {
+			isa = PBXGroup;
+			children = (
+				DE8AF72624D0FB7A00DE74D4 /* Chapter2.playground */,
+			);
+			path = Chapter2;
+			sourceTree = "<group>";
+		};
+		DE8AF72724D1057000DE74D4 /* Chapter3 */ = {
+			isa = PBXGroup;
+			children = (
+				DE8AF72824D1058200DE74D4 /* Chapter3.playground */,
+			);
+			path = Chapter3;
+			sourceTree = "<group>";
+		};
+		DE8AF72924D134DF00DE74D4 /* Chapter4 */ = {
+			isa = PBXGroup;
+			children = (
+				DE8AF72A24D134F300DE74D4 /* Chapter4.playground */,
+			);
+			path = Chapter4;
+			sourceTree = "<group>";
+		};
+		DE8AF72B24D159B900DE74D4 /* Chapter5 */ = {
+			isa = PBXGroup;
+			children = (
+				DE8AF72C24D159CB00DE74D4 /* Chapter5.playground */,
+			);
+			path = Chapter5;
+			sourceTree = "<group>";
+		};
 		DE92B7CC24D0159E00B8A6E5 = {
 			isa = PBXGroup;
 			children = (
@@ -118,6 +329,7 @@
 		DE92B7D724D0159E00B8A6E5 /* YagomSwift5 */ = {
 			isa = PBXGroup;
 			children = (
+				DE8AF72224D0F91800DE74D4 /* CJH */,
 				8F996B2D24D0218A00510E09 /* parkJoonSang */,
 				DE92B7D824D0159E00B8A6E5 /* AppDelegate.swift */,
 				DE92B7DA24D0159E00B8A6E5 /* SceneDelegate.swift */,
@@ -146,6 +358,110 @@
 				DE92B7FC24D015A400B8A6E5 /* Info.plist */,
 			);
 			path = YagomSwift5UITests;
+			sourceTree = "<group>";
+		};
+		DE931E5424EB5735004E6CA4 /* Chapter18 */ = {
+			isa = PBXGroup;
+			children = (
+				DEBA24C924E28EAF00CFCC11 /* Chapter18.playground */,
+			);
+			path = Chapter18;
+			sourceTree = "<group>";
+		};
+		DEA380F625356D7100A28E9C /* Chapter19 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA380F725356D9C00A28E9C /* Chapter19.playground */,
+			);
+			path = Chapter19;
+			sourceTree = "<group>";
+		};
+		DEA380FF253582C200A28E9C /* Chapter20 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA38100253582D700A28E9C /* Chapter20.playground */,
+			);
+			path = Chapter20;
+			sourceTree = "<group>";
+		};
+		DEA3810725367C7E00A28E9C /* Chapter21 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA3810825367C9700A28E9C /* Chapter21.playground */,
+			);
+			path = Chapter21;
+			sourceTree = "<group>";
+		};
+		DEA3810C253692EC00A28E9C /* Chapter22 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA3810D2536930100A28E9C /* Chapter22.playground */,
+			);
+			path = Chapter22;
+			sourceTree = "<group>";
+		};
+		DEA381112536B68C00A28E9C /* Chapter23 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA381122536B6A200A28E9C /* Chapter23.playground */,
+			);
+			path = Chapter23;
+			sourceTree = "<group>";
+		};
+		DEA381192536D07100A28E9C /* Chapter24 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA3811A2536D08300A28E9C /* Chapter24.playground */,
+			);
+			path = Chapter24;
+			sourceTree = "<group>";
+		};
+		DEA3811E2536D97900A28E9C /* Chapter25 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA3811F2536D98B00A28E9C /* Chapter25.playground */,
+			);
+			path = Chapter25;
+			sourceTree = "<group>";
+		};
+		DEA381262537CE3D00A28E9C /* Chapter26 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA381272537CE4D00A28E9C /* Chapter26.playground */,
+			);
+			path = Chapter26;
+			sourceTree = "<group>";
+		};
+		DEA3812B2537E50D00A28E9C /* Chapter27 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA3812C2537E51E00A28E9C /* Chapter27.playground */,
+			);
+			path = Chapter27;
+			sourceTree = "<group>";
+		};
+		DEA3813025380FAC00A28E9C /* Chapter28 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA3813125380FBC00A28E9C /* Chapter28.playground */,
+			);
+			path = Chapter28;
+			sourceTree = "<group>";
+		};
+		DEA3813525382D1F00A28E9C /* Chapter29 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA3813625382D3000A28E9C /* Chapter29.playground */,
+			);
+			path = Chapter29;
+			sourceTree = "<group>";
+		};
+		DEA3813A2538351600A28E9C /* Chapter30 */ = {
+			isa = PBXGroup;
+			children = (
+				DEA3813C2538352E00A28E9C /* Chapter30.playground */,
+			);
+			path = Chapter30;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
